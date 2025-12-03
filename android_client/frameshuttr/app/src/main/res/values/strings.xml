@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">frameshuttr</string>
+    <string-array name="tipuri_noduri">
+        <item>Transfer de stil</item>
+        <item>Culling</item>
+
+    </string-array>
+</resources>
